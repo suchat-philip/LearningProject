@@ -18,7 +18,7 @@ namespace LearningProject
                 .UseStartup<Startup>()
                 .Build();
 
-            host.Run();
+            host.Run(); 
         }
     }
 }
